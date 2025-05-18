@@ -3,4 +3,10 @@ pandas
 scikit-learn
 matplotlib
 seaborn
+python-dotenv
+mysql-connector-python
+pymysql
+# catboost
+# xgboost
+# mlflow
 -e .
