@@ -6,7 +6,7 @@ seaborn
 python-dotenv
 mysql-connector-python
 pymysql
-# catboost
-# xgboost
+catboost
+xgboost
 # mlflow
 -e .
