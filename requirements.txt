@@ -8,5 +8,5 @@ mysql-connector-python
 pymysql
 catboost
 xgboost
-# mlflow
+mlflow
 -e .
